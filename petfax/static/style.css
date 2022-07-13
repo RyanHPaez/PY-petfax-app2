@@ -28,6 +28,7 @@ a {
 
 .petImage {
     width: 400px;
+    height: 400px;
     border-radius: 10px;
 }
 
@@ -52,8 +53,7 @@ a {
 
 .petImageShowPage {
     border-radius: 10px;
-    width: 600px;
-   
+    width: 600px;   
 }
 
 .showPetsContainer {
